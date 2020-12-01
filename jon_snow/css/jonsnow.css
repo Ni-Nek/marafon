@@ -1,0 +1,69 @@
+/* Jon Snow */
+
+/* макет 1 */
+body {
+background: #E5E5E5;
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 400;
+color:#000000;
+}
+	
+main {	
+position: relative;
+width: 1024px;
+margin: 0 auto;
+padding: 66px 57px;
+
+background: #FFFFFF;
+}
+
+/* jon_snow 1 */
+
+.jonsnow_photo{
+width: 192px;
+height: 276px;
+}
+
+.page_title{
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+color: #000000;
+
+padding: 15px 0;
+margin:0;
+}
+.birth {
+margin: 0;	
+} 
+
+
+h2 {
+font-weight: bold;
+font-size: 18px;
+line-height: 130%;
+color: #000000;
+padding: 15px 0;
+
+}
+
+p{
+font-weight: 400;
+font-size: 14px;
+font-style: normal;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+ul {font-weight: 400;
+font-size: 14px;
+font-style: normal;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.redtext {
+color: red;
+}
